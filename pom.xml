@@ -16,6 +16,7 @@
     <description>spring-boot-learning</description>
     <modules>
         <module>generator</module>
+        <module>kafka</module>
     </modules>
     <properties>
         <java.version>17</java.version>
